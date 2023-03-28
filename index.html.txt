@@ -1,6 +1,6 @@
 <html>
 
 <h1>heading 1 !!</h1>
-<h2> heading 2 added !!</h2>
+<h2> heading 2 added !! checking for merge conflict</h2>
 
 </html>
